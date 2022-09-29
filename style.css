@@ -1,0 +1,28 @@
+.heading {
+    width: 80%;
+    font-size: 30px;
+    color: white;
+    background-color: skyblue;
+    border-color: black;
+    border-width: 3px;
+}
+body {
+    background-image: linear-gradient(to right, #ffafbd,#ffc3a0);
+}
+.name_of_objects, #result_object_name, #result_object_accuracy {
+    color: white;
+    font-size: 25px;
+}
+#camera, #result {
+    border: 2px dashed black;
+    width: 390px;
+    height: 300px;
+}
+#btn {
+    color: white;
+    background-image: linear-gradient(to right, #cc2b5e,#753a88);
+    border-radius: 10px;
+    box-shadow: none;
+    border-width: 4px;
+    border-color: black;
+}
